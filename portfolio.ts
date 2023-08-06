@@ -2,6 +2,7 @@ import emoji from 'react-easy-emoji';
 import {
   EducationType,
   ExperienceType,
+  FeedbackType,
   
   ProjectType,
   SkillsSectionType,
@@ -165,6 +166,14 @@ export const experience: ExperienceType[] = [
     date: 'Apr 2022 – Jun 2022',
     desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.',
   }
+];
+
+export const feedbacks: FeedbackType[] = [
+  {
+    name: 'John Smith',
+    feedback:
+      'Successfully managed multiple projects with competing deadlines, consistently delivering high-quality work on time.Successfully managed multiple projects with competing deadlines, consistently delivering high-quality work on time.',
+  },
 ];
 
 
