@@ -159,7 +159,7 @@ export const projects: ProjectType[] = [
 ];
 export const experience: ExperienceType[] = [
   {
-    role: 'Frontend Developer',
+    role: 'Frontend developer',
     company: 'Duseca Software',
     companyLogo: '/img/icons/common/dusecaSoftware.jpg',
     date: 'Apr 2022 – Jun 2022',
