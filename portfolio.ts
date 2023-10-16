@@ -126,6 +126,16 @@ export const educationInfo: EducationType[] = [
     
     
   },
+
+   {
+    schoolName: 'Himayam Matriculation Higher secondary School',
+    subHeader: 'SSLC',
+    duration: 'Jun 2017 - March 2018',
+    desc: 'State Board',
+    grade: 'Percentage : 88.2',
+    
+    
+  },
   
 ];
 
