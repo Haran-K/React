@@ -16,7 +16,7 @@ export const greetings: GreetingsType = {
   name: 'Hariharan K',
   title: "Hi all, I'm Hariharan K",
   description:
-    "I'm passionate Frontend developer having an experience of web applications with HTML , CSS , javascript , React.js, Next.js and also Figma.",
+    "I'm passionate FullStack developer having an experience of web applications with Python , HTML , CSS , javascript , React.js , Rest Api and Sql .",
     
   resumeLink:
     'https://www.canva.com/design/DAFeaDrxUGs/qGvC3LeHVNYA0BUKEBY_BQ/edit',
